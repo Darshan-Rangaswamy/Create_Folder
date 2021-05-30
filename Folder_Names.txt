@@ -1,0 +1,40 @@
+SCB12-87:0x3741 parCascadeSwitchingStrategy
+SCB12-88:0x3780 parCascadeLateOnValue
+SCB12-89:0x3781 parCascadeLateOffValue
+SCB12-90:0x3782 parCascadeEarlyOnValue
+SCB12-91:0x3783 parCascadeEarlyOffValue
+SCB12-92:0x5726, 0x5756 varCascadeSwitchOn, varCascadeSwitchOff
+SCB12-93:0x576d varCascadeAppOnPower
+SCB12-94:0x377f parCascadeAppIdentification
+SCB12-95:0x377f parCascadeAppIdentification Logial Number
+SCB12-96:0x377f parCascadeAppIdentification.State
+SCB12-97:0x377f parCascadeAppIdentification.Iorder
+SCB12-98:0x3779, 0x377a parCascadeChPreferred, parCascadeChNonPreferred
+SCB12-99:0x377D Permutation Order
+SCB12-100:0x3795 parCascadeCurrentSeasonMode
+SCB12-101:0x377D Permutation Order Change
+SCB12-102:0x373a, 0x576c parCascadePermutationType, parCascadePermutationCounter
+SCB12-103:0x377e parCascadePermutationIntervalTime
+SCB12-104:0x377e parCascadePermutationIntervalTime Permutation
+SCB12-105:0x5767 varCascadeReqPowerPct
+SCB12-106:0x3787, 0x3789, 0x3788, 0x378a, 0x378b, 0x378c
+SCB12-107:0x378d parCascadeLLHDeltaTempProtectionOn
+SCB12-108:0x378e parCascadeLLHDeltaTempProtectionOffDiff
+SCB12-109:0x378f Read parCascadeLLHDeltaTempProtectionEnable
+SCB12-110:0x575b varCascadeLLHDeltaTempProtection
+SCB12-111:0x5768 varCascadeLLHAntiFrostProtectionDemand
+SCB12-112:0x3790 parCascadeLLHAntiFrostPumpTemperatureOn
+SCB12-113:0x3791 parCascadeLLHAntiFrostPumpTemperatureOff
+SCB12-114:0x575c varCascadeLLHAntiFrostProtectionPump
+SCB12-115:0x3792 parCascadeLLHAntiFrostTemperatureOn
+SCB12-116:0x3793 parCascadeLLHAntiFrostTemperatureOff
+SCB12-117:0x575d varCascadeLLHAntiFrostProtection 
+SCB12-118:0x5768 varCascadeLLHAntiFrostProtectionDemand 2
+SCB12-119:0x3794 parCascadeLLHAntiFrostMaxFlowTemperature
+SCB12-120:0x5768 varCascadeLLHAntiFrostProtectionDemand.HeatDemand
+SCB12-121:0x5757 varCascadeTotalPower
+SCB12-122:0x5758 varCascadeReqPwr
+SCB12-123:0x5769 varCascadePermutationOrderTemp
+SCB12-124:0x5759 varCascadeNumOfAppliances
+SCB12-125:0x373d parCascadeSwitchingCycleDelay
+SCB12-126:0x3786 parCascadeAppActivationTime
